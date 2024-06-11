@@ -1,0 +1,5 @@
+# config.py
+# News APIのAPIキーを指定します
+API_KEY = '47568255145341fcb20f63d54374ced2'
+# Discord Webhook urlの指定
+DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1249918502588911649/CrwS_klggfYA93S_u1UPv-h_zI5kMF3jQ9y_OC4IwCudU8tdae0Sks_mxLZaTlt6yNb-'
